@@ -2,7 +2,7 @@
 <p>Try to make below projects in series to master HTML</p>
 <ol>
   <li>
-    <code>Basic Text Website</code>
+    <code><a href="Basic Text Website:" target="_blank">Basic Text Website<a></code>
   </li>
   <li>
     <code>Contact Information Page</code>
