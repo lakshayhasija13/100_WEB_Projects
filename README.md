@@ -1,17 +1,16 @@
 <h1>Projects Included in this Repository :</h1>
 <p>Try to make below projects in series to master HTML</p>
-<code><ol>
+<ol>
   <li>
-    Basic Text Website
+    <code>Basic Text Website</code>
   </li>
   <li>
-    Contact Information Page
+    <code>Contact Information Page</code>
   </li>
   <li>
-    Simple Table Page
+    <code>Simple Table Page</code>
   </li>
   <li>
-    Form Page
+    <code>Form Page</code>
   </li>
 </ol>
-</code>
