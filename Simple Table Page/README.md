@@ -6,7 +6,7 @@ Step 4: Add Closing Tags <br>
 Step 5: Save and Open in Browser
 <hr>
 <p>
-<code>tr</code> : For creating a Row
-<code>th</code> : For creating a Heading
-<code>td</code> : For inserting data in cell
+<code>tr</code> : For creating a Row <br>
+<code>th</code> : For creating a Heading <br>
+<code>td</code> : For inserting data in cell <br>
 </p>
