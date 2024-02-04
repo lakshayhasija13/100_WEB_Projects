@@ -1,4 +1,4 @@
-<code><h1>Simple Table Page</h1></code>
+<strong><h1>Simple Table Page</h1></strong>
 Step 1: Set Up the HTML Structure <br>
 Step 2: Add Page Title and Heading <br>
 Step 3: Create a Table <br>
@@ -10,3 +10,4 @@ Step 5: Save and Open in Browser
 <code>th</code> : For creating a Heading <br>
 <code>td</code> : For inserting data in cell <br>
 </p>
+<hr>
