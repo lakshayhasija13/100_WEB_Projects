@@ -14,6 +14,6 @@
     <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/5e571c4bd160d8e56bfa6324980a8c7e073b0c6b/Form%20Page">Form Page</a></code>
   </li>
   <li>
-    <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/4920b57fb13b7ba4f23f737c37232fa525746e9b/List%20of%20Links">List of Links</a></code>
+    <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/56402de2c57e55354cc7b142b84c90aef35b4a31/List%20of%20Links">List of Links</a></code>
   </li>
 </ol>
