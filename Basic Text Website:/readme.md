@@ -8,7 +8,7 @@ Step 5: Add Closing Tags <br>
 Step 6: Save and Open in Browser <br>
 <hr>
 <h3><code>Tags used :</code></h3>
-<code>h1</code> : used for heading 1
+<code>h1</code> : used for heading 1 <br>
 <code>h2</code> : used for heading 2 <br>
 <code>h3</code> : used for heading 3 <br>
 <code>h4</code> : used for heading 4 <br>
