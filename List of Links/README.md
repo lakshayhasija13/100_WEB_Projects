@@ -1,5 +1,5 @@
 <h1>List of Links</h1>
-<code><h2>Tags used:</h2></code>
+<h2><code>Tags used:</code></h2>
 
 The <code>h1</code> tag is used for the main heading of the page. <br>
 The <code>ul</code> tag represents an unordered list. <br>
