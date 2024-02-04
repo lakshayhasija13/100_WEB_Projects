@@ -2,10 +2,10 @@
 <p>Try to make below projects in series to master HTML</p>
 <ol>
   <li>
-    <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/2e2572345b24fac93a0814f5138de7910cd25db9/Basic%20Text%20Website%3A" taregt="_blank">Basic Text Website<a></code>
+    <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/2e2572345b24fac93a0814f5138de7910cd25db9/Basic%20Text%20Website%3A" taregt="_blank">Basic Text Website</a></code>
   </li>
   <li>
-    <code>Contact Information Page</code>
+    <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/9f3fd450eca6f5c4ec3c28729af19f2c1a52ce85/Contact%20Information%20Page">Contact Information Page</a></code>
   </li>
   <li>
     <code>Simple Table Page</code>
