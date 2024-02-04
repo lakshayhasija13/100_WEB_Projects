@@ -1,5 +1,5 @@
 <hr>
-<code><strong><h1>Simple Table Page</h1></strong></code>
+<code><h1>Simple Table Page</h1></code>
 Step 1: Set Up the HTML Structure <br>
 Step 2: Add Page Title and Heading <br>
 Step 3: Create a Table <br>
