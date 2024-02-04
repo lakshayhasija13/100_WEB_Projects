@@ -8,7 +8,7 @@
     <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/9f3fd450eca6f5c4ec3c28729af19f2c1a52ce85/Contact%20Information%20Page">Contact Information Page</a></code>
   </li>
   <li>
-    <code>Simple Table Page</code>
+    <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/5d58a8a2f9ee4f272393af60dba1d2305770e299/Simple%20Table%20Page">Simple Table Page</a></code>
   </li>
   <li>
     <code>Form Page</code>
