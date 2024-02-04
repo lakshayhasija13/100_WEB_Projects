@@ -2,6 +2,9 @@
 
 <ol>
   <li>
-    Basic Text Website:
+    Basic Text Website
+  </li>
+  <li>
+    Contact Information Page
   </li>
 </ol>
