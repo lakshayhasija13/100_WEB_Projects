@@ -1,3 +1,5 @@
+<h1> Basic Text Website : </h1>
+
 Step 1: Set Up the HTML Structure <br>
 Step 2: Add Page Title and Heading <br>
 Step 3: Add Paragraphs of Text <br>
