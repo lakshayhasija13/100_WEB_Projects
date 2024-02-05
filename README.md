@@ -19,4 +19,7 @@
     <li>
     <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/cca2a38a203ec86b157b9f7e9e99e3e836dfac8f/Image%20Gallery%20with%20Descriptions">Image Gallery</a></code>
   </li>
+  <li>
+    <code><a href="">Basic CSS Project</a></code>
+  </li>
 </ol>
