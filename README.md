@@ -20,6 +20,6 @@
     <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/cca2a38a203ec86b157b9f7e9e99e3e836dfac8f/Image%20Gallery%20with%20Descriptions">Image Gallery</a></code>
   </li>
   <li>
-    <code><a href="">Basic CSS Project</a></code>
+    <code><a href="https://github.com/lakshayhasija13/100_WEB_Projects/tree/a5d8e0e6e060bb4babaa5ccac6bbbb160c9325f0/BASIC%20CSS%20PROJECT">Basic CSS Project</a></code>
   </li>
 </ol>
