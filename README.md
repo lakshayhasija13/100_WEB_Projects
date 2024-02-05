@@ -16,4 +16,7 @@
   <li>
     <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/56402de2c57e55354cc7b142b84c90aef35b4a31/List%20of%20Links">List of Links</a></code>
   </li>
+    <li>
+    <code><a href="https://github.com/lakshayhasija13/100_HTML_Projects/tree/cca2a38a203ec86b157b9f7e9e99e3e836dfac8f/Image%20Gallery%20with%20Descriptions">Image Gallery</a></code>
+  </li>
 </ol>
