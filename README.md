@@ -22,4 +22,7 @@
   <li>
     <code><a href="https://github.com/lakshayhasija13/100_WEB_Projects/tree/a5d8e0e6e060bb4babaa5ccac6bbbb160c9325f0/BASIC%20CSS%20PROJECT">Basic CSS Project</a></code>
   </li>
+    <li>
+    <code><a href="https://github.com/lakshayhasija13/100_WEB_Projects/tree/f7186b750225c4fa440ca5a28c005a53f03999a4/HTML%20and%20CSS%20button%20with%20a%20hover%20effect/v1">HTML CSS Hover Button</a></code>
+  </li>
 </ol>
